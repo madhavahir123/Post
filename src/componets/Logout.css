@@ -1,0 +1,57 @@
+.logoutcom {
+  height: 222px;
+  width: 561px;
+  background-color: #f1e6e6;
+  color: rgb(19, 18, 18);
+  margin: auto;
+  margin-top: 120px;
+  padding: 7px 10px;
+  position: relative;
+  border-radius: 20px;
+}
+.logoutcom-light {
+  height: 222px;
+  width: 561px;
+  background-color: #272727;
+  color: white;
+  margin: auto;
+  margin-top: 77px;
+  padding: 7px 10px;
+  position: relative;
+  border-radius: 20px;
+}
+.logouttext {
+  padding: 36px 70px;
+  font-size: 20px;
+}
+.logoutallbtn {
+  position: absolute;
+  top: 164px;
+  display: flex;
+  gap: 8px;
+  right: 46px;
+}
+.btncancle {
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  padding: 10px 28px;
+  border: none;
+  border-radius: 7px;
+}
+.btnlogout {
+  background-color: rgb(217, 255, 0);
+  color: white;
+  font-size: 16px;
+  padding: 10px 28px;
+  border: none;
+  border-radius: 7px;
+}
+
+.bg-img {
+  background-color: #00000074;
+  min-height: 100vh;
+  width: 100%;
+  position: absolute;
+  z-index: 1000;
+}

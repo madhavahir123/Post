@@ -1,0 +1,47 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.navbar {
+  height: 70px;
+  width: 100%;
+  background-color: rgb(31 31 67);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.btn_login_logout {
+  margin: 11px;
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+.btn {
+  padding: 4px;
+
+  font-size: 19px;
+  border-radius: 10px;
+}
+.btn_created {
+  margin: 25px 20px;
+  display: flex;
+  list-style: none;
+  gap: 37px;
+  font-size: 22px;
+}
+.alink {
+  color: gold;
+  text-decoration: underline;
+}
+.dislink {
+  text-decoration: none;
+  color: white;
+}
+.logoout_btn {
+  padding: 10px 17px;
+  background-color: red;
+  color: white;
+  border-radius: 11px;
+  font-size: 18px;
+  border: none;
+}

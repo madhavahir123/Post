@@ -1,0 +1,54 @@
+.itempost {
+  width: 384px;
+  height: 450px;
+  background-color: rgb(252, 252, 254);
+  margin: 20px;
+}
+.allpost {
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-wrap: wrap;
+  /* gap: 52px; */
+  grid-template-columns: 1fr 1fr 1fr;
+  /* grid-auto-rows: 3fr 3fr 2fr; */
+  place-items: center;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+.pvbtn {
+  background-color: #5f5fdf;
+  padding: 9px 36px;
+  color: white;
+}
+.pages {
+  text-align: center;
+}
+.btnpage {
+  padding: 10px 14px;
+  background-color: beige;
+}
+.bgBlack {
+  background-color: black;
+  color: white;
+}
+.postimg {
+  height: 232px;
+  width: 384px;
+  border-radius: 10px;
+}
+.posttext {
+  text-align: center;
+  height: auto;
+  width: 385px;
+}
+.loading {
+  text-align: center;
+  font-size: 30px;
+  color: red;
+}
+.titleExplore {
+  text-align: center;
+  margin: 31px;
+  font-size: 27px;
+}

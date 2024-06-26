@@ -1,0 +1,32 @@
+.tc {
+  text-align: center;
+  margin: 10px;
+}
+.hw {
+  width: 350px;
+}
+.fss {
+  font-size: 20px;
+}
+.iw {
+  height: 270px;
+  width: 350px;
+}
+.delete {
+  padding: 10px 20px;
+  margin: 10px;
+  background: red;
+  color: white;
+  font-size: 14px;
+  border-radius: 10px;
+  border: none;
+}
+.edit {
+  padding: 10px 20px;
+  margin: 10px;
+  background: rgb(208, 239, 50);
+  color: white;
+  font-size: 14px;
+  border-radius: 10px;
+  border: none;
+}

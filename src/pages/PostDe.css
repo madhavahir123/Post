@@ -1,0 +1,16 @@
+.detpost {
+  width: 32%;
+  padding: 20px;
+
+  color: black;
+  margin: auto;
+  margin-top: 60px;
+}
+.imgpost {
+  height: 294px;
+  width: 487px;
+  border-radius: 10px;
+}
+.tc {
+  text-align: center;
+}

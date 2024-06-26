@@ -1,0 +1,30 @@
+.viewdata {
+  width: 350px;
+  background-color: #eef8ee;
+  border-radius: 7px;
+}
+.vp {
+  /* display: flex;
+  gap: 83px; */
+  display: grid;
+  width: 100%;
+  height: auto;
+  /* gap: 52px; */
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 3fr 3fr 2fr;
+  place-items: center;
+  margin-top: 10px;
+}
+.posttitle {
+  text-align: center;
+  margin: 31px;
+  font-size: 27px;
+}
+.mauto {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.fs {
+  font-size: 30px;
+}

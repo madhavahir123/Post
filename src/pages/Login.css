@@ -1,0 +1,46 @@
+.Login {
+  width: 367px;
+  margin: auto;
+  background-color: #f6f4f5;
+  border-radius: 10px;
+}
+.LoginTitle {
+  margin: 32px;
+  padding: 20px;
+  text-align: center;
+}
+.marginFont {
+  font-size: 20px;
+  margin: 5px;
+}
+.m {
+  margin: 19px;
+}
+.mm {
+  margin: 1px 18px;
+}
+.wh {
+  width: 318px;
+  height: 29px;
+}
+.fs {
+  font-size: 25px;
+}
+.btnl {
+  padding: 12px 33px;
+  border-radius: 10px;
+  background-color: #b3a8ee8f;
+}
+.btnLogin {
+  text-align: center;
+  padding: 10px 10px;
+}
+.otpsend {
+  padding: 4px 11px;
+  background-color: #597be3;
+  margin-top: 5px;
+  border-radius: 4px;
+}
+.df {
+  display: flex;
+}

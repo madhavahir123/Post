@@ -1,0 +1,55 @@
+.title {
+  text-align: center;
+  margin: 38px;
+  font-size: 20px;
+}
+.created_post {
+  border: 2px solid;
+  border-radius: 27px;
+  width: 649px;
+  margin: auto;
+}
+.created_post1 {
+  border: 2px solid;
+  border-radius: 27px;
+  width: 649px;
+  margin: auto;
+  background-color: #dad7d7;
+}
+.mx {
+  margin: 23px 23px;
+}
+.title {
+  font-size: 28px;
+}
+.fs {
+  font-size: 27px;
+}
+.Created_titel_input {
+  width: 494px;
+  height: 30px;
+}
+.btnadd {
+  display: flex;
+  gap: 10px;
+  margin: 7px 265px;
+}
+.btnedit {
+  display: flex;
+  gap: 10px;
+  margin: 8px 210px;
+}
+.add {
+  padding: 8px 10px;
+  border-radius: 10px;
+  background-color: #64e064;
+}
+
+.modal {
+  background-color: #00000074;
+  min-height: 100vh;
+  width: 100%;
+  position: absolute;
+  z-index: 1000;
+  top: 70px;
+}
